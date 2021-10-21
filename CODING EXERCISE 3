@@ -7,7 +7,7 @@ class myExercise3 {
 	System.out.println("\nLetters in the Hawaiian alphabet: 12");
 	System.out.println("Dialling code for Antartica: "+672);
 	System.out.println("Year in which Leonardo Da Vinci invented the parachute: "+1515);
-	System.out.println("Speed of ketchup: "+40km+" per year");
+	System.out.println("Speed of ketchup: "+40+"km per year");
 
 	}
 
