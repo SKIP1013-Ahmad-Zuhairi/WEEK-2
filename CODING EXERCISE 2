@@ -1,0 +1,63 @@
+package myExercise2;
+
+class PrintCheckerPattern {
+
+	public static void main(String[] args) {
+	System.out.println("* * * * *");
+	System.out.println(" * * * * * ");
+	System.out.println("* * * * *");
+	System.out.println(" * * * * *");
+	System.out.println("* * * * *");
+	 
+	}
+
+}
+
+
+package myExercise2;
+
+class PrintSquarePattern {
+
+	public static void main(String[] args) {
+		System.out.println("* * * * *");
+		System.out.println("*       *");
+		System.out.println("*       *");
+		System.out.println("*       *");
+		System.out.println("* * * * *");
+
+	}
+
+}
+
+
+package myExercise2;
+
+class PrintStarPattern {
+
+	public static void main(String[] args) {
+	System.out.println("* * * * *");
+	System.out.println(" *     *");
+	System.out.println("  *   *");
+	System.out.println("   * *");
+	System.out.println("    *");
+	
+
+	}
+
+}
+
+
+package myExercise2;
+
+class PrintTriangularPattern {
+
+	public static void main(String[] args) {
+	System.out.println("    *");
+	System.out.println("* *   * *");
+	System.out.println("   * *");
+	System.out.println("  *   *");
+	System.out.println(" *     *");
+
+	}
+
+}
