@@ -1,0 +1,21 @@
+package myLife;
+
+class CampusLife {
+
+	public static void main(String[] args) {
+                System.out.println("MY LIFE IN CAMPUS FOR 1 DAY");
+		System.out.println("6.30am : Wake Up ");
+		System.out.println("6:35am : Subuh Prayer And Get to Bath ");
+		System.out.println("7.15am : Get a light Breakfast");
+		System.out.println("8.00am : Start Online Class Learning");
+		System.out.println("12.30pm : Lunch Break And Zohor Prayer");
+		System.out.println("2.30pm : Continuing Online Class Session");
+		System.out.println("5.00pm : End Of Online Class And Get Ready for Asar Prayer");
+		System.out.println("6.00pm : Jogging And do some activities");
+		System.out.println("7.30pm : Preparing For Maghrib Prayer And Dinner");
+		System.out.println("9.00pm : Preparing For Isya Prayer And Doing Assignment");
+		System.out.println("10:00pm : Practice a programming skill in Eclipse")
+		System.out.println("12.00am : Go to Bed & Sleep");
+	}
+
+}
